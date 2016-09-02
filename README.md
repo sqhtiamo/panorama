@@ -1,2 +1,2 @@
 # panorama
-A method for Panorama Show in the Browser 
+A Method for Panorama Show in the Browser 
